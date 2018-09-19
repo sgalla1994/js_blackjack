@@ -1,0 +1,17 @@
+
+h1 {
+    color: indianred;
+    font-family: "Arial", sans-serif;
+    font-size: 300%;
+  }
+  
+  h4 {
+    color: rgba(255, 99, 71, 0.5);
+    font-family: "Arial", sans-serif;
+  }
+  
+  p {
+    font-family: "Arial", sans-serif;
+    color: rgba(255, 99, 71, 0.4);
+  }
+  
